@@ -17,7 +17,7 @@
 ### 1️⃣ Clonar o repositório
 ```bash
 git clone https://github.com/heitorpita/desafio_qa_esig.git
-cd desafio_qa_esig.git
+cd desafio_qa_esig
 ```
 
 ### 2️⃣ Instalar dependências
